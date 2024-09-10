@@ -1,0 +1,175 @@
+.title{
+    text-align: center;
+    color: #47B298;
+}
+
+.color{
+    background: linear-gradient(#65241F, #5F3B28, #8D725C, #C7AB8E, #E0DFDB);
+}
+
+.br{
+    background-color: #E0DFDB;
+    margin-bottom: -16px;
+}
+
+.colors{
+    text-align: center;
+    justify-content: center;
+    color: #47B298;
+}
+
+.color1{
+    background: linear-gradient(#630002, #000);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color2{
+    background: linear-gradient(#e6d7ae, #fff);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color3{
+    background: linear-gradient(#000080, #fff);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color4{
+    background: linear-gradient(#777778, #000);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color5{
+    background: linear-gradient(#6F4E37, #FFEFDF);
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color6{
+    background: linear-gradient(#375e2a, #FFEFDF);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color7{
+    background: linear-gradient(#3d0104, #FFEFDF);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color8{
+    background: linear-gradient(#F0E68C, #000);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color9{
+    background: linear-gradient(#fff, #000);
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: 16px;
+}
+
+.color10{
+    background-color: #000;
+    color: #47B298;
+    border-radius: 16px;
+    box-shadow: 4 16px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+
+.perfumes{
+    text-align: center;
+    justify-content: center;
+}
+
+.title-perfumes{
+    background-color: #D3EFE9;
+}
+
+.summer{
+    margin-top: -16px;
+    background:linear-gradient(#D3EFE9, #47B298, #19715C, #2A3935, #171717);
+}
+
+.cheap{
+    color:#171717;
+}
+
+.middle{
+    color: #2A3935;
+}
+
+.expensive{
+    color: #D3EFE9;
+}
+
+.winter{
+    background: linear-gradient(#171717, #2C1A46, #714A9C, #B574C4, #DBCAE9);
+    color: #DBCAE9;
+}
+
+.cheap2{
+    color: #DBCAE9;
+}
+
+.middle2{
+    color: #2C1A46;
+}
+
+.expensive2{
+    color: #171717;
+}
+
+.clothes{
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(#DBCAE9, #B574C4, #714A9C, #2C1A46, #0B0205);
+}
+
+.cheap3{
+    color: #0B0205;
+}
+
+.middle3{
+    color: #DBCAE9;
+}
