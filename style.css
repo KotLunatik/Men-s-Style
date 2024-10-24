@@ -159,17 +159,3 @@
 .expensive2{
     color: #171717;
 }
-
-.clothes{
-    text-align: center;
-    justify-content: center;
-    background: linear-gradient(#DBCAE9, #B574C4, #714A9C, #2C1A46, #0B0205);
-}
-
-.cheap3{
-    color: #0B0205;
-}
-
-.middle3{
-    color: #DBCAE9;
-}
